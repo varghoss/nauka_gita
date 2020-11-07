@@ -25,4 +25,16 @@ _You **can** combine them_
 1. Item 3
    1. Item 3a
    1. Item 3b
-   
+
+
+   http://github.com - automatic!
+[GitHub](http://github.com)
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
