@@ -3,28 +3,16 @@
 Ucze sie gita, mam na imie: **Karol**
 
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+#### William Gibson
 
-*This text will be italic*
-_This will also be italic_
+> _** Jesteśmy ekonomią informacyjną. Ucza tego w szkołach ale nie mówią że nei da się poruszać życ i funkcjonowac na jakiejkolwiek płaszczyźnie bez zostawiania śladów,. odłamków pozornie pozbawionych znaczenia fragmentów informacji osobistej. Fragmentów które da się pozyskac. wzmocnić i wykorzsytać w dowolny sposób.**_
 
-**This text will be bold**
-__This will also be bold__
 
-_You **can** combine them_
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
 
-  1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+
+
+
 
 
    http://github.com - automatic!
