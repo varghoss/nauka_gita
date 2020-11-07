@@ -5,8 +5,8 @@ Ucze sie gita, mam na imie: **Karol**
 
 #### William Gibson
 
-> _** Jesteśmy ekonomią informacyjną. Ucza tego w szkołach ale nie mówią że nie da się poruszać życ i funkcjonowac na jakiejkolwiek płaszczyźnie bez zostawiania śladów,. odłamków pozornie pozbawionych znaczenia fragmentów informacji osobistej. Fragmentów które da się pozyskac. wzmocnić i wykorzsytać w dowolny sposób.**_
-
+ >_** Jesteśmy ekonomią informacyjną. Ucza tego w szkołach ale nie mówią że nie da się poruszać życ i funkcjonowac na jakiejkolwiek płaszczyźnie bez zostawiania śladów,. odłamków pozornie pozbawionych znaczenia fragmentów informacji osobistej. Fragmentów które da się pozyskac.
+wzmocnić i wykorzsytać w dowolny sposób.**_
 
 
 
@@ -28,3 +28,5 @@ As Kanye West said:
 
 > We're living the future so
 > the present is our past.
+
+**XXXX**
