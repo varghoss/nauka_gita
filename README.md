@@ -30,8 +30,10 @@ _You **can** combine them_
    http://github.com - automatic!
 [GitHub](http://github.com)
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](https://octodex.github.com/images/bouncercat.png)
+
+
+**XXXX**
 
 
 As Kanye West said:
